@@ -19,7 +19,7 @@
   - Cloud Run / SecretManager / CloudLogging 
 
 **Others**
-- Github Actions / Terraform / etc...
+- Github Actions / Terraform / Serverless Framework / etc...
 
 - [Email](kotake.shunki@gmail.com)
 
