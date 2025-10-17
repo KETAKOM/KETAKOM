@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**KETAKOM/KETAKOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shunki Kotake
 
-Here are some ideas to get you started:
+💻 Backend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Language**
+- Go / Python / PHP / JavaScript / TypeScript
+
+**Framework**
+- Echo / Laravel / React×Nextjs / Vue×Nuxtjs
+
+**Cloud**
+- AWS
+  - Route53 / CloudFront / VPC / LB / EC2 / RDS / ECS / IAM
+  - S3 / Lambda / DynamoDB / Athena / Glue / StepFunctions / APIGateway / EventBridge
+  - SecretManager / KMS / ElasticCache / CloudWatch / CloudTrail
+
+- GCP
+  - Cloud Run / SecretManager / CloudLogging 
+
+**Others**
+- Github Actions / Terraform / etc...
+
+- [Email](kotake.shunki@gmail.com)
+
+## 🔗 Portfolio
+- [2000万件ETLパイプライン (Go×並列処理×RDS)](https://github.com/KETAKOM/my-output/tree/main/irori-server/cli/etl-worker)
