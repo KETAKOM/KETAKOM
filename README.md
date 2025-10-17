@@ -1,3 +1,8 @@
+## 🔗 Portfolio
+- [2000万件ETLパイプライン (Go×並列処理×RDS)](https://github.com/KETAKOM/my-output/tree/main/irori-server/cli/etl-worker)
+
+
+
 ## 👋 Hi, I'm Shunki Kotake
 
 💻 Backend Engineer
@@ -21,9 +26,6 @@
 - Github Actions / Terraform / Serverless Framework / etc...
 
 - [Email](mailto:kotake.shunki@gmail.com)
-
-### 🔗 Portfolio
-- [2000万件ETLパイプライン (Go×並列処理×RDS)](https://github.com/KETAKOM/my-output/tree/main/irori-server/cli/etl-worker)
 
 ### Stats :chart_with_upwards_trend:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KETAKOM&theme=gruvbox)
