@@ -20,7 +20,7 @@
 **Others**
 - Github Actions / Terraform / Serverless Framework / etc...
 
-- [Email](kotake.shunki@gmail.com)
+- [Email](mailto:kotake.shunki@gmail.com)
 
 ### 🔗 Portfolio
 - [2000万件ETLパイプライン (Go×並列処理×RDS)](https://github.com/KETAKOM/my-output/tree/main/irori-server/cli/etl-worker)
