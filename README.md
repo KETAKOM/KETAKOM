@@ -1,5 +1,4 @@
-
-# 👋 Hi, I'm Shunki Kotake
+## 👋 Hi, I'm Shunki Kotake
 
 💻 Backend Engineer
 
@@ -23,5 +22,12 @@
 
 - [Email](kotake.shunki@gmail.com)
 
-## 🔗 Portfolio
+### 🔗 Portfolio
 - [2000万件ETLパイプライン (Go×並列処理×RDS)](https://github.com/KETAKOM/my-output/tree/main/irori-server/cli/etl-worker)
+
+### Stats :chart_with_upwards_trend:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KETAKOM&theme=gruvbox)
+
+### 🏅 Certifications
+- AWS Certified Solutions Architect – Associate　(2025/08~)
+- AWS Certified SysOps Administrator – Associate (2025/09~)
