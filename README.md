@@ -27,7 +27,7 @@
 
 - [Email](mailto:kotake.shunki@gmail.com)
 
-### Stats :chart_with_upwards_trend:
+### :chart_with_upwards_trend: Stats 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KETAKOM&theme=gruvbox)
 
 ### 🏅 Certifications
