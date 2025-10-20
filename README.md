@@ -1,5 +1,5 @@
 ## 🔗 Portfolio
-- [2000万件ETLパイプライン (Go×並列処理×RDS)](https://github.com/KETAKOM/my-output/tree/main/irori-server/cli/etl-worker)
+- [2000万件ETLパイプライン (Go×並行処理×RDS)](https://github.com/KETAKOM/my-output/tree/main/irori-server/cli/etl-worker)
 
 
 
