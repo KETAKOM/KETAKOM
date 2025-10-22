@@ -1,5 +1,6 @@
 ## 🔗 Portfolio
 - [2000万件ETLパイプライン (Go×並行処理×RDS)](https://github.com/KETAKOM/my-output/tree/main/irori-server/cli/etl-worker)
+
 ※ポートフォリオなのでGoで書いていますが、
 実務で2000万件~n億件のデータを処理する場合、GlueやRedshift、snowflakeなどの活用やELTな機構を検討します。
 
