@@ -11,10 +11,10 @@
 💻 Backend Engineer
 
 **Language**
-- Go / Python / PHP / JavaScript / TypeScript
+- Go / Python / PHP / Ruby / JavaScript / TypeScript
 
 **Framework**
-- Echo / Laravel / React×Nextjs / Vue×Nuxtjs
+- Echo / Laravel / RubyonRails /React×Nextjs / Vue×Nuxtjs
 
 **Cloud**
 - AWS
